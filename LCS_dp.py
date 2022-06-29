@@ -10,8 +10,8 @@ def lcs(X, Y, m, n):
 
 # Driver Code
 if __name__ == '__main__':
-	X = input("First array : ")
-	Y = input("Second array : ")
+	X = input("First String : ")
+	Y = input("Second String : ")
 
 	# Find the length of string
 	m = len(X)
